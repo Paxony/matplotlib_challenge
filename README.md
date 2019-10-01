@@ -1,4 +1,4 @@
-# matplotlib_challenge
+# Matplotlib Challenge
 
 ## Pymaceuticals Instructions
 
